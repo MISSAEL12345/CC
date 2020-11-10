@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #333333;
+}
+-->
+</style></head>
+
+<body>
+<p><a href="bienvenida.htm" target="mainFrame">Descripcion de centro de monitoreo</a> </p>
+<p><a href="politica.htm" target="mainFrame">Politica de imagen y calidad en centro de monitoreo</a></p>
+<p><a href="telefonos.htm" target="mainFrame">Telefonos</a></p>
+<p><a href="2D.htm" target="mainFrame">Dise&ntilde;o en 2D</a></p>
+<p><a href="3D.htm" target="mainFrame">Dise&ntilde;o en 3D</a></p>
+</body>
+</html>
